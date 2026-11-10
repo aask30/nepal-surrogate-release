@@ -1,0 +1,8 @@
+model=transformer  test=jumla  val=dadeldhura
+SMAPE_weekly_%: 8.713
+SMAPE_annual_%: 5.934
+Pearson_r_mean: 0.936
+RMSE_kWh: 1177.356
+CV-RMSE_%: 14.340
+NMBE_%: -5.392
+R2: 0.455

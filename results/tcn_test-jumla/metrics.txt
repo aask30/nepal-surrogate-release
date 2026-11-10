@@ -1,0 +1,8 @@
+model=tcn  test=jumla  val=dadeldhura
+SMAPE_weekly_%: 9.587
+SMAPE_annual_%: 9.118
+Pearson_r_mean: 0.926
+RMSE_kWh: 1409.495
+CV-RMSE_%: 17.167
+NMBE_%: 8.685
+R2: 0.218

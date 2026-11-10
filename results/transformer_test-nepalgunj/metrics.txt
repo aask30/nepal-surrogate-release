@@ -1,0 +1,8 @@
+model=transformer  test=nepalgunj  val=bhairahawa
+SMAPE_weekly_%: 3.099
+SMAPE_annual_%: 0.313
+Pearson_r_mean: 0.978
+RMSE_kWh: 453.417
+CV-RMSE_%: 4.337
+NMBE_%: -0.059
+R2: 0.958

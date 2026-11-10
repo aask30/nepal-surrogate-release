@@ -1,0 +1,8 @@
+model=transformer  test=pokhara  val=okhaldhunga
+SMAPE_weekly_%: 3.317
+SMAPE_annual_%: 0.575
+Pearson_r_mean: 0.937
+RMSE_kWh: 375.958
+CV-RMSE_%: 4.484
+NMBE_%: 0.463
+R2: 0.876

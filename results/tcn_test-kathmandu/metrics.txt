@@ -1,0 +1,5 @@
+model=tcn  test=kathmandu  val=pokhara
+RMSE_kWh: 406.628
+CV-RMSE_%: 4.768
+NMBE_%: 1.602
+R2: 0.887

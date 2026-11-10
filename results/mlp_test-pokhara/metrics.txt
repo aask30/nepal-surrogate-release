@@ -1,0 +1,5 @@
+model=mlp  test=pokhara  val=okhaldhunga
+RMSE_kWh: 383.371
+CV-RMSE_%: 4.572
+NMBE_%: -0.697
+R2: 0.871

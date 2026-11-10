@@ -1,0 +1,8 @@
+model=tcn  test=pokhara  val=okhaldhunga
+SMAPE_weekly_%: 3.826
+SMAPE_annual_%: 1.138
+Pearson_r_mean: 0.917
+RMSE_kWh: 412.625
+CV-RMSE_%: 4.921
+NMBE_%: -1.029
+R2: 0.850

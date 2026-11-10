@@ -1,0 +1,8 @@
+model=tcn  test=nepalgunj  val=bhairahawa
+SMAPE_weekly_%: 3.674
+SMAPE_annual_%: 2.179
+Pearson_r_mean: 0.977
+RMSE_kWh: 534.526
+CV-RMSE_%: 5.113
+NMBE_%: 2.186
+R2: 0.941
